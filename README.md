@@ -16,10 +16,10 @@
 
 Буду рад, если мой репозиторий будет Вам полезен. Заранее спасибо за любую обратную связь.
 
-<details><summary>A dropdown list for markdown</summary>
+<details><summary>Список моих проектов</summary>
 
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
+   1. Проект №1
+   1. Проект №2
+   1. Проект №3
 
 </details>
